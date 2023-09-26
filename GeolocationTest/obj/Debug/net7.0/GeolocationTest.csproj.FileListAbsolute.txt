@@ -1,0 +1,15 @@
+/Users/a206709340/workspace/geolocation-test/GeolocationTest/bin/Debug/net7.0/GeolocationTest
+/Users/a206709340/workspace/geolocation-test/GeolocationTest/bin/Debug/net7.0/GeolocationTest.deps.json
+/Users/a206709340/workspace/geolocation-test/GeolocationTest/bin/Debug/net7.0/GeolocationTest.runtimeconfig.json
+/Users/a206709340/workspace/geolocation-test/GeolocationTest/bin/Debug/net7.0/GeolocationTest.dll
+/Users/a206709340/workspace/geolocation-test/GeolocationTest/bin/Debug/net7.0/GeolocationTest.pdb
+/Users/a206709340/workspace/geolocation-test/GeolocationTest/obj/Debug/net7.0/GeolocationTest.csproj.AssemblyReference.cache
+/Users/a206709340/workspace/geolocation-test/GeolocationTest/obj/Debug/net7.0/GeolocationTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a206709340/workspace/geolocation-test/GeolocationTest/obj/Debug/net7.0/GeolocationTest.AssemblyInfoInputs.cache
+/Users/a206709340/workspace/geolocation-test/GeolocationTest/obj/Debug/net7.0/GeolocationTest.AssemblyInfo.cs
+/Users/a206709340/workspace/geolocation-test/GeolocationTest/obj/Debug/net7.0/GeolocationTest.csproj.CoreCompileInputs.cache
+/Users/a206709340/workspace/geolocation-test/GeolocationTest/obj/Debug/net7.0/GeolocationTest.dll
+/Users/a206709340/workspace/geolocation-test/GeolocationTest/obj/Debug/net7.0/refint/GeolocationTest.dll
+/Users/a206709340/workspace/geolocation-test/GeolocationTest/obj/Debug/net7.0/GeolocationTest.pdb
+/Users/a206709340/workspace/geolocation-test/GeolocationTest/obj/Debug/net7.0/GeolocationTest.genruntimeconfig.cache
+/Users/a206709340/workspace/geolocation-test/GeolocationTest/obj/Debug/net7.0/ref/GeolocationTest.dll
